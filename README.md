@@ -16,9 +16,9 @@ This project demonstrates the full design-to-verification flow for a digital sig
 
 ## Architecture
 
-![UVM Architecture Diagram](docs/screenshots/architecture_diagram.png)
+![UVM Architecture Diagram]("D:\fir-uvm-verification\docs\screenshots\architecture_diagram.png")
 
-*Editable source: [docs/architecture_diagram.pptx](docs/architecture_diagram.pptx)*
+*Editable source:("D:\fir-uvm-verification\docs\architecture_diagram.pptx")*
 
 ---
 
@@ -84,16 +84,16 @@ cx_in_x_out: cross of the above, with documented ignore_bins
 | UVM_FATAL | 0 |
 
 ### Scoreboard Summary & Final Coverage
-![Scoreboard Results](docs/screenshots/scoreboard_results.png)
+![Scoreboard Results]("D:\fir-uvm-verification\docs\screenshots\scoreboard_results.png")
 
 ### Sample Pass Log (Constrained-Random Transactions)
-![Test Passes](docs/screenshots/test_passes.png)
+![Test Passes]("D:\fir-uvm-verification\docs\screenshots\test_passes.png")
 
 ### UVM Report Summary
-![UVM Report Summary](docs/screenshots/uvm_report_summary.png)
+![UVM Report Summary]("D:\fir-uvm-verification\docs\screenshots\uvm_report_summary.png")
 
 ### Waveform — EPWave
-![Waveform](docs/screenshots/waveform.png)
+![Waveform]("D:\fir-uvm-verification\docs\screenshots\waveform.png")
 
 ---
 
